@@ -3,12 +3,11 @@
 > 게으른 벌레가 되자
 
 ![Start Date](https://img.shields.io/badge/Start%20Date-2021--09--21-ffdd59.svg)
+<img  alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 
 <div align="center">
 <h3> 김동한 </h3>
 
-<h4>Programming Language</h4>
-<img  alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 </div>
 
 <h2>🖊 기록</h2>
