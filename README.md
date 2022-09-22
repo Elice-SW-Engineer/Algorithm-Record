@@ -15,5 +15,5 @@
 |   김동한    | [:link:](https://github.com/Elice-SW-Engineer/Algorithm-Record/blob/main/%EA%B9%80%EB%8F%99%ED%95%9C/README.md) | Javascript |
 |   김유범    | [:link:](https://github.com/Elice-SW-Engineer/Algorithm-Record/blob/main/%EA%B9%80%EC%9C%A0%EB%B2%94/README.md) |   Python   |
 |   박성일    |                                                   [:link:]()                                                    |            |
-|   강민희    |                                                   [:link:]()                                                    |            |
+|   강민희    | [:link:](https://github.com/Elice-SW-Engineer/Algorithm-Record/blob/main/%EA%B0%95%EB%AF%BC%ED%9D%AC/README.md) | Javascript |
 |   차지환    | [:link:](https://github.com/Elice-SW-Engineer/Algorithm-Record/blob/main/%EC%B0%A8%EC%A7%80%ED%99%98/README.md) | Javascript |
