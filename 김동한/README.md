@@ -14,7 +14,7 @@
 
 |  분류  | 기록 날짜  |                                                                 분류                                                                  |
 | :----: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|  백준  | 2022-09-26 |                             [Javascript](https://github.com/LESANF/Algorithm-Record/tree/master/Baekjoon)                             |
+|  백준  | 2022-10-02 |                             [Javascript](https://github.com/LESANF/Algorithm-Record/tree/master/Baekjoon)                             |
 | 인프런 | 2022-00-00 | [Javascript](https://github.com/LESANF/Algorithm-Record/tree/master/Inflean/JS%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%95%EC%9D%98) |
 
 <h3>스터디기간 중 푼 문제</h3>
@@ -26,3 +26,4 @@
 |    etc     | 2022-09-24 |  별찍기(5)  | 브론즈 3 |                      [Javascript](./BAEKJOON/etc/2442.js)                      |
 | 브루트포스 | 2022-09-25 |   블랙잭    | 브론즈 2 | [Javascript](./BAEKJOON/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/2798.js) |
 | 브루트포스 | 2022-09-26 |   분해합    | 브론즈 2 | [Javascript](./BAEKJOON/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/2231.js) |
+| 브루트포스 | 2022-10-02 |    덩치     |  실버 5  | [Javascript](./BAEKJOON/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/7568.js) |
